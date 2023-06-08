@@ -6,7 +6,7 @@ from flask import Flask, jsonify
 from flask_slack import Slack
 from json_fix import fix_json_using_multiple_techniques
 
-userOAuthToken = 'xoxp-5110172238129-5121235539264-5288168885780-5bf2d7849ec7c54301389ed0702ba546'
+userOAuthToken = ''
 channel_id = 'D05385PNY5P'
 name = '你的名字'
 
