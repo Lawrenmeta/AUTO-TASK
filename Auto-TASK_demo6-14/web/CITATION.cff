@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: ChuanhuChatGPT
+message: >-
+  If you use this software, please cite it using these
+  metadata.
+type: software
+authors:
+  - given-names: Chuanhu
+    orcid: https://orcid.org/0000-0001-8954-8598
+  - given-names: MZhao
+    orcid: https://orcid.org/0000-0003-2298-6213
+  - given-names: Keldos
+    orcid: https://orcid.org/0009-0005-0357-272X
+repository-code: 'https://github.com/GaiZhenbiao/ChuanhuChatGPT'
+url: 'https://github.com/GaiZhenbiao/ChuanhuChatGPT'
+abstract: This software provides a light and easy to use interface for ChatGPT API and any LLM.
+license: GPL-3.0
+commit: 61c97966dac16c992045f5362698c70cc178254f
+version: '20230507'
+date-released: '2023-05-07'
